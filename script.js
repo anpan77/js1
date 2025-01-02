@@ -1,2 +1,3 @@
-let lists=document.getElementsByClassName("pull-down-list")
-console.log(lists)
+$('h1').mouseover(function() {
+   console.log('マウスオーバーしました！');
+});
